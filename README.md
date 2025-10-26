@@ -72,8 +72,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" title="PHP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" title="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" width="50" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" title=".NET"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" title="Spring Boot"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
